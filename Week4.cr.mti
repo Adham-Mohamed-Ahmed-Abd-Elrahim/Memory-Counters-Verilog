@@ -1,0 +1,50 @@
+{D:/Work Zone/Verilog/Practicing/Week 4/Tri_state_Bus.v} {1 {vlog -work work -vopt -stats=none {D:/Work Zone/Verilog/Practicing/Week 4/Tri_state_Bus.v}
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module tri_bus
+
+Top level modules:
+	tri_bus
+
+} {} {}} {D:/Work Zone/Verilog/Practicing/Week 4/Binary_Counter.v} {1 {vlog -work work -vopt -stats=none {D:/Work Zone/Verilog/Practicing/Week 4/Binary_Counter.v}
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module binary_counter
+
+Top level modules:
+	binary_counter
+
+} {} {}} {D:/Work Zone/Verilog/Practicing/Week 4/N_bit_Reg.v} {1 {vlog -work work -vopt -stats=none {D:/Work Zone/Verilog/Practicing/Week 4/N_bit_Reg.v}
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module Reg2
+
+Top level modules:
+	Reg2
+
+} {} {}} {D:/Work Zone/Verilog/Practicing/Week 4/Shift_Register.v} {1 {vlog -work work -vopt -stats=none {D:/Work Zone/Verilog/Practicing/Week 4/Shift_Register.v}
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module Shift_Register
+
+Top level modules:
+	Shift_Register
+
+} {} {}} {D:/Work Zone/Verilog/Practicing/Week 4/N_Reg_file.v} {1 {vlog -work work -vopt -stats=none {D:/Work Zone/Verilog/Practicing/Week 4/N_Reg_file.v}
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module Register_File
+
+Top level modules:
+	Register_File
+
+} {} {}} {D:/Work Zone/Verilog/Practicing/Week 4/Bi_directionalbus.v} {1 {vlog -work work -vopt -stats=none {D:/Work Zone/Verilog/Practicing/Week 4/Bi_directionalbus.v}
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module bi_direct_bus
+
+Top level modules:
+	bi_direct_bus
+
+} {} {}} {D:/Work Zone/Verilog/Practicing/Week 4/Finite_StateMpractice.v} {1 {vlog -work work -vopt -stats=none {D:/Work Zone/Verilog/Practicing/Week 4/Finite_StateMpractice.v}
+Model Technology ModelSim SE-64 vlog 2019.4 Compiler 2019.10 Oct 15 2019
+-- Compiling module mealy
+
+Top level modules:
+	mealy
+
+} {} {}}

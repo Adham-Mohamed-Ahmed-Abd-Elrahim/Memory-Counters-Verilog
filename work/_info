@@ -1,0 +1,261 @@
+m255
+K4
+z2
+!s11f vlog 2019.4 2019.10, Oct 15 2019
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Work Zone/FPGA/Seesion 2 (Verilog)
+T_opt
+!s110 1617815584
+VjeZ`giQlZ[I2[_V6:XACK3
+Z1 04 3 4 work Reg fast 0
+=1-0068eb7c5103-606de820-aa-13b0
+Z2 o-quiet -auto_acc_if_foreign -work work +acc
+Z3 tCvgOpt 0
+n@_opt
+Z4 OL;O;2019.4;69
+R0
+T_opt1
+!s110 1617816115
+Vz^Dfa`zgj=Tj?BY6K3hGL1
+R1
+=1-0068eb7c5103-606dea33-347-c74
+R2
+R3
+n@_opt1
+R4
+R0
+T_opt2
+!s110 1617816965
+VEd>2Y>a:GL:^_MQLizIKD3
+04 4 4 work Reg2 fast 0
+=1-0068eb7c5103-606ded84-37f-5444
+Z5 o-quiet -auto_acc_if_foreign -work work
+R3
+n@_opt2
+R4
+R0
+T_opt3
+!s110 1617898486
+ViD93NT98?<V7h3XHYTQ4b1
+04 5 4 work mealy fast 0
+=1-0068eb7c5103-606f2bf5-366-3d5c
+R5
+R3
+n@_opt3
+R4
+vbi_direct_buff
+!s110 1617888510
+!i10b 1
+!s100 MGZWR_aM2?`Xm=iHoFSk32
+!s11b 1j^i^NOF6XbjVaFbZ=Fi30
+IVYdH<G[b1DRX@g^RR7i:H0
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 dD:/Work Zone/Verilog/Practicing/Week 4
+w1617888507
+8D:/Work Zone/Verilog/Practicing/Week 4/bi_direct_buff.v
+FD:/Work Zone/Verilog/Practicing/Week 4/bi_direct_buff.v
+!i122 -1
+L0 1
+Z8 OL;L;2019.4;69
+r1
+!s85 0
+31
+!s108 1617888510.000000
+!s107 D:/Work Zone/Verilog/Practicing/Week 4/bi_direct_buff.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Work Zone/Verilog/Practicing/Week 4/bi_direct_buff.v|
+!i113 0
+Z9 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R3
+vbi_direct_bus
+!s110 1617889712
+!i10b 1
+!s100 7fE>jF64UITL7=CAoS:@U2
+!s11b zPA78GClFUaf6fKZ]ilL@0
+ISCXZkgG1WhOgIVJVP5Ci_3
+R6
+R7
+w1617889674
+8D:/Work Zone/Verilog/Practicing/Week 4/Bi_directionalbus.v
+FD:/Work Zone/Verilog/Practicing/Week 4/Bi_directionalbus.v
+!i122 -1
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1617889712.000000
+!s107 D:/Work Zone/Verilog/Practicing/Week 4/Bi_directionalbus.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Work Zone/Verilog/Practicing/Week 4/Bi_directionalbus.v|
+!i113 0
+R9
+R3
+vbinary_counter
+!s110 1617828367
+!i10b 1
+!s100 KiiDZ[?ECJ=WSK<g4:dnd3
+!s11b W25PHI[zZdBcfmS5bR>MS2
+IF_jcV]X6MA<Oa]71E_D<_3
+R6
+R7
+w1617827757
+8D:/Work Zone/Verilog/Practicing/Week 4/Binary_Counter.v
+FD:/Work Zone/Verilog/Practicing/Week 4/Binary_Counter.v
+!i122 -1
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1617828367.000000
+!s107 D:/Work Zone/Verilog/Practicing/Week 4/Binary_Counter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Work Zone/Verilog/Practicing/Week 4/Binary_Counter.v|
+!i113 0
+R9
+R3
+vmealy
+!s110 1617897802
+!i10b 1
+!s100 WG2K2>=hfPVJB;zlaDQAJ2
+!s11b 4nFh:X8mzzgCTB:Z[eVL01
+IQm3fYH`DC;XLT7k@cdh:L0
+R6
+R7
+w1617897800
+8D:/Work Zone/Verilog/Practicing/Week 4/Finite_StateMpractice.v
+FD:/Work Zone/Verilog/Practicing/Week 4/Finite_StateMpractice.v
+!i122 -1
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1617897802.000000
+!s107 D:/Work Zone/Verilog/Practicing/Week 4/Finite_StateMpractice.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Work Zone/Verilog/Practicing/Week 4/Finite_StateMpractice.v|
+!i113 0
+R9
+R3
+vReg
+!s110 1617816934
+!i10b 1
+!s100 BMzf5a>@`^b2bB88Gj=Z12
+!s11b 1FEKPaDjKnJ7?YYYT<lj23
+IkZ:^MlA7<ih6Oj6?9HWMg0
+R6
+R7
+w1617816932
+Z10 8D:/Work Zone/Verilog/Practicing/Week 4/N_bit_Reg.v
+Z11 FD:/Work Zone/Verilog/Practicing/Week 4/N_bit_Reg.v
+!i122 -1
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1617816934.000000
+Z12 !s107 D:/Work Zone/Verilog/Practicing/Week 4/N_bit_Reg.v|
+Z13 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Work Zone/Verilog/Practicing/Week 4/N_bit_Reg.v|
+!i113 0
+R9
+R3
+n@reg
+vReg2
+!s110 1617825400
+!i10b 1
+!s100 ;BCY9o=TUd@GA:dYlZelJ3
+!s11b C1]f6ed<VMDc1S55hO8_U1
+Ij@J:X[7:L0akA`SM47Q4O2
+R6
+R7
+w1617824433
+R10
+R11
+!i122 -1
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1617825400.000000
+R12
+R13
+!i113 0
+R9
+R3
+n@reg2
+vRegister_File
+!s110 1617833539
+!i10b 1
+!s100 k_?<V83j<6Qa5X]8ch>SI3
+!s11b YBhKb^6jKBHT[8b`K]V7>2
+I7j5zPa738EI2O6<3bil^51
+R6
+R7
+w1617832280
+8D:/Work Zone/Verilog/Practicing/Week 4/N_Reg_file.v
+FD:/Work Zone/Verilog/Practicing/Week 4/N_Reg_file.v
+!i122 -1
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1617833539.000000
+!s107 D:/Work Zone/Verilog/Practicing/Week 4/N_Reg_file.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Work Zone/Verilog/Practicing/Week 4/N_Reg_file.v|
+!i113 0
+R9
+R3
+n@register_@file
+vShift_Register
+!s110 1617826065
+!i10b 1
+!s100 JI2Uo=W5;>dk]8ZKcmDDj1
+!s11b eLmM2GnJiPz:4;2g3FU^>1
+IJ989fbF2m7f:?=eK1bCV71
+R6
+R7
+w1617826040
+8D:/Work Zone/Verilog/Practicing/Week 4/Shift_Register.v
+FD:/Work Zone/Verilog/Practicing/Week 4/Shift_Register.v
+!i122 -1
+L0 2
+R8
+r1
+!s85 0
+31
+!s108 1617826065.000000
+!s107 D:/Work Zone/Verilog/Practicing/Week 4/Shift_Register.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Work Zone/Verilog/Practicing/Week 4/Shift_Register.v|
+!i113 0
+R9
+R3
+n@shift_@register
+vtri_bus
+!s110 1617886215
+!i10b 1
+!s100 P`oV<Q42;^jXl]OzYZSE^0
+!s11b eK`lb]UR@hD9[>7UK><BO0
+IlgR4EX59KUO`HMPFT6mS`1
+R6
+R7
+w1617886213
+8D:/Work Zone/Verilog/Practicing/Week 4/Tri_state_Bus.v
+FD:/Work Zone/Verilog/Practicing/Week 4/Tri_state_Bus.v
+!i122 -1
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1617886215.000000
+!s107 D:/Work Zone/Verilog/Practicing/Week 4/Tri_state_Bus.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|D:/Work Zone/Verilog/Practicing/Week 4/Tri_state_Bus.v|
+!i113 0
+R9
+R3

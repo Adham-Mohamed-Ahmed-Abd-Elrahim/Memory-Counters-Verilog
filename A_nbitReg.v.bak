@@ -1,0 +1,14 @@
+module Reg(load,reset,D_input,clk,Q_out);
+parameter bits_n=4;
+input wire load,reset,clk;
+input wire [bits_n:0] D_input;
+output reg [bits_n:0] Q_out;
+
+always @(load,reset ,posedge clk)
+begin 
+if(reset ==1)
+Q_out<=0;
+else if (load==1)
+Q_out<=D_input;
+end
+endmodule 
